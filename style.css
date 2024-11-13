@@ -436,6 +436,9 @@ footer p {
     /* visibility: hidden; */
     display: none;
   }
+  header div{
+  display: initial;
+  }
   .cover {
     background-image: none;
     background-color: #3fd0d4;
