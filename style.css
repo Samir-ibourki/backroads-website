@@ -416,7 +416,7 @@ footer p {
   text-align: center;
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 530px) {
   .section-center {
     width: 100%;
   }
